@@ -1,1 +1,1 @@
-# Github-Sponsors
+# Github-Sponsor
